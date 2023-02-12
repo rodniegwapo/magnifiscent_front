@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Dashboard",
+    "icon": "fas fa-tachometer-alt",
+    "path": "/seller/dashboard"
+  },
+  {
+    "title": "Package Codes",
+    "icon": "fas fa-cubes",
+    "path": "/seller/package-codes"
+  }
+]

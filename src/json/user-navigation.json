@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Dashboard",
+    "icon": "fas fa-tachometer-alt",
+    "path": "/user/dashboard"
+  },
+  {
+    "title": "Direct Referral",
+    "icon": "fas fa-users",
+    "path": "/user/direct-referral",
+    "middleware": "hasAccount"
+  },
+  {
+    "title": "Encashments",
+    "icon": "fas fa-money-check",
+    "path":"/user/encashments",
+    "middleware": "hasAccount"
+  },
+  {
+    "title": "Table of Exit",
+    "icon": "fas fa-door-open",
+    "path":"/user/table-of-exit",
+    "middleware": "hasAccount"
+  },
+  {
+    "title": "Transaction",
+    "icon": "fas fa-handshake",
+    "path":"/user/transaction",
+    "middleware": "hasAccount"
+  },
+  {
+    "title": "Notification",
+    "icon": "far fa-bell",
+    "path": "/user/notification"
+  },
+  {
+    "title": "Account Summary",
+    "icon": "fas fa-file-alt",
+    "path":"/user/account-summary",
+    "middleware": "hasAccount"
+  },
+  {
+    "title": "Tickets",
+    "icon": "fas fa-ticket-alt",
+    "path":"/user/tickets"
+  }
+]

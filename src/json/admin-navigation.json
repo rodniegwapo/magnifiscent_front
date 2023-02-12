@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Dashboard",
+    "icon": "fas fa-tachometer-alt",
+    "path": "/admin/dashboard"
+  },
+  {
+    "title": "Announcements",
+    "icon": "fas fa-bullhorn",
+    "path": "/admin/announcements"
+  },
+  {
+    "title": "Encashments",
+    "icon": "fas fa-money-check",
+    "path": "/admin/encashments"
+  },
+  {
+    "title": "Package Codes",
+    "icon": "fas fa-cubes",
+    "path": "/admin/package-codes"
+  },
+  {
+    "title": "Fund Allocation",
+    "icon": "fas fa-money-check",
+    "path": "/admin/fund-allocation"
+  },
+  {
+    "title": "Tickets",
+    "icon": "fas fa-ticket-alt",
+    "path": "/admin/tickets"
+  },
+  {
+    "title": "Top 50 Distributors",
+    "icon": "fas fa-trophy",
+    "path": "/admin/top-distributors"
+  },
+  {
+    "title": "Monthly Qualifiers",
+    "icon": "fas fa-medal",
+    "path": "/admin/monthly-qualifiers"
+  },
+  {
+    "title": "Monthly Reports",
+    "icon": "fas fa-scroll",
+    "path": "/admin/monthly-reports"
+  },
+  {
+    "title": "Users",
+    "icon": "fas fa-user",
+    "path": "/admin/users"
+  }
+]
